@@ -105,3 +105,12 @@ small {
     background-color: #00a9ec;
     color: black;
 }
+
+
+/* responsive part */
+
+@media(max-width:360px) {
+    .form {
+        width: 310px;
+    }
+}
